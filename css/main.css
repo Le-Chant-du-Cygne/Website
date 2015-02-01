@@ -101,15 +101,16 @@ body {
     font-family: "OratorStd";
 }
 
-
 @font-face {
     font-family: 'OratorStd';
     src: url('../fonts/OratorStd.eot');
-  src: url('../fonts/OratorStd.eot?#iefix') format('embedded-opentype'), url('../fonts/OratorStd.woff2') format('woff2'), url('../fonts/OratorStd.woff') format('woff'), url('../fonts/OratorStd.ttf') format('truetype'), url('../fonts/OratorStd.svg#OratorStd') format('svg');
+    src: url('../fonts/OratorStd.eot?#iefix') format('embedded-opentype'), url('../fonts/OratorStd.woff2') format('woff2'), url('../fonts/OratorStd.woff') format('woff'), url('../fonts/OratorStd.ttf') format('truetype'), url('../fonts/OratorStd.svg#OratorStd') format('svg');
 }
 
-
-
+.container {
+    padding-right: 0px;
+    padding-left: 0px;
+}
 
 
 
