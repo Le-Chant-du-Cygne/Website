@@ -3,9 +3,9 @@
 
 # TEAM
 
-    Gaël Bourhis, @gaelBourhis
-    Simon Chauvin, @SimonChauvin
-    Romain Enselme, @AGavaldaKedavra
+    Art: Gaël Bourhis, @gaelBourhis
+    Code: Simon Chauvin, www.simonchauvin.com, @SimonChauvin
+    Text: Romain Enselme, @AGavaldaKedavra
 
 # TECHNOLOGY COLOPHON
 
