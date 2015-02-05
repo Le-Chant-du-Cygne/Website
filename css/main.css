@@ -100,20 +100,15 @@ textarea {
 body {
     font-family: "OratorStd";
     font-size: 16px;
-    background-color: #BDC8C5;
+    background-color: #eee;
 }
-
-/*@font-face {
-  font-family: 'Glyphicons Halflings';
-
-  src: url('../fonts/glyphicons-halflings-regular.eot');
-  src: url('../fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/glyphicons-halflings-regular.woff2') format('woff2'), url('../fonts/glyphicons-halflings-regular.woff') format('woff'), url('../fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
-}*/
 
 @font-face {
     font-family: 'OratorStd';
     src: url('../fonts/OratorStd.eot');
     src: url('../fonts/OratorStd.eot?#iefix') format('embedded-opentype'), url('../fonts/OratorStd.woff2') format('woff2'), url('../fonts/OratorStd.woff') format('woff'), url('../fonts/OratorStd.ttf') format('truetype'), url('../fonts/OratorStd.svg#OratorStd') format('svg');
+    font-weight: 600;
+    font-style: normal;
 }
 
 a {
@@ -121,8 +116,8 @@ a {
 }
 
 .image {
-    border: 2px solid;
-    border-color: #fff;
+    border: 3px solid;
+    border-color: #7cb4a6;
 }
 
 
