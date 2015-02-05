@@ -107,17 +107,15 @@ body {
     font-family: 'OratorStd';
     src: url('../fonts/OratorStd.eot');
     src: url('../fonts/OratorStd.eot?#iefix') format('embedded-opentype'), url('../fonts/OratorStd.woff2') format('woff2'), url('../fonts/OratorStd.woff') format('woff'), url('../fonts/OratorStd.ttf') format('truetype'), url('../fonts/OratorStd.svg#OratorStd') format('svg');
-    font-weight: 600;
-    font-style: normal;
 }
 
 a {
-    color: #539181;
+    color: #44776A;
 }
 
 .image {
     border: 3px solid;
-    border-color: #7cb4a6;
+    border-color: #44776A;
 }
 
 
