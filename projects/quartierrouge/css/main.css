@@ -98,28 +98,26 @@ textarea {
    ========================================================================== */
 
 body {
-    font-family: "Andada";
+    font-family: "DejaVu";
     font-size: 20px;
     background-color: #fff;
-    
-    
 }
 
 @font-face {
-    font-family: 'Andada';
-    src: url('../fonts/andada-regular.eot');
-    src: url('../fonts/andada-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/andada-regular.woff2') format('woff2'), url('../fonts/andada-regular.woff') format('woff'), url('../fonts/andada-regular.ttf') format('truetype'), url('../fonts/andada-regular.svg#OratorStd') format('svg');
+    font-family: 'DejaVuSans';
+    src: url('../fonts/DejaVuSans.eot');
+    src: url('../fonts/DejaVuSans.eot?#iefix') format('embedded-opentype'), url('../fonts/DejaVuSans.woff2') format('woff2'), url('../fonts/DejaVuSans.woff') format('woff'), url('../fonts/DejaVuSans.ttf') format('truetype'), url('../fonts/DejaVuSans.svg#OratorStd') format('svg');
 }
 
-a {
-    color: #5B9DA9;
-}
 
-.border {
-    border: 2px solid;
-    border-style: solid;
-    border-color: grey;
-}
+
+
+
+
+
+
+
+
 
 
 
