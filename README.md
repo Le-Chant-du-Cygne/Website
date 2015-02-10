@@ -1,3 +1,3 @@
-Website of Le Chant du Cygne Collective.
+The website for Le Chant du Cygne game collective.
 
 [Le Chant du Cygne](http://www.lechantducygne.com)
