@@ -3,7 +3,7 @@
 
 # TEAM
 
-    Art: Gaël Bourhis, @gaelBourhis
+    Art: Gael Bourhis, @gaelBourhis
     Code: Simon Chauvin, www.simonchauvin.com, @SimonChauvin
     Text: Romain Enselme, @AGavaldaKedavra
 
@@ -12,4 +12,4 @@
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
-    Normalize.css, jQuery, Modernizr
+    Bootstrap, Normalize.css, jQuery, Modernizr
