@@ -2,7 +2,7 @@
 <!-- example file containing base tags -->
 
 <game>	
-	<title>Le Chant du Cygne</title>
+	<title>Le Chant du cygne</title>
 	<founding-date>February 1, 2015</founding-date>
 	<website>http://www.lechantducygne.com/</website>
 	<based-in>Paris, France</based-in>
@@ -27,7 +27,7 @@
 	<histories>
 		<history>
 			<header>Early history</header>
-			<text>Le Chant du Cygne is an independent game collective made of Gaël Bourhis, Simon Chauvin and Romain Enselme. They founded Le Chant du Cygne in 2015, after 2 years spent developping games during game jams. Romain and Simon met in 2010 at ENJMIN, a famous french video game school. Gaël and Romain were already long term friends when Gaël dropped out of art school to learn programming. The three started to meet on a regular basis mainly to take part in events such as the Ludum Dare, until they just decided to get serious.</text>
+			<text>Le Chant du cygne is an independent game collective made of Gaël Bourhis, Simon Chauvin and Romain Enselme. They founded Le Chant du cygne in 2015, after 2 years spent developping games during game jams. Romain and Simon met in 2010 at ENJMIN, a famous french video game school. Gaël and Romain were already long term friends when Gaël dropped out of art school to learn programming. The three started to meet on a regular basis mainly to take part in events such as the Ludum Dare, until they just decided to get serious.</text>
 		</history>
 	</histories>
 		
