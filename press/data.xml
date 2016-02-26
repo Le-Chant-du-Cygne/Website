@@ -31,19 +31,19 @@
 		</history>
 	</histories>
 		
-	<!--<trailers>
+	<trailers>
 		<trailer>
-			<name>This video is nice</name>
-			<youtube>7jQbITg0MSk</youtube>
+			<name>Palimpseste's trailer</name>
+			<vimeo>147940937</vimeo>
 		</trailer>
-		<trailer>
+		<!--<trailer>
 			<name>This one too</name>
 			<youtube>0CevOaYrYDA</youtube>
 			<vimeo>12536488</vimeo>
-		</trailer>
+		</trailer>-->
 	</trailers>
 	
-	<awards>
+	<!--<awards>
 		<award>
 			<description>Winner in this highly relevant contest.</description>
 			<info>Award Location, 20 October, 1989</info>

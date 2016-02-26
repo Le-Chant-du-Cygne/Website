@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+	<title>Palimpseste</title>
+	<release-date>19 February, 2016</release-date>
+	<website>http://www.lechantducygne.com/palimpseste</website>
+	<press-can-request-copy>TRUE</press-can-request-copy>
+
+	<platforms>
+		<platform>
+			<name>PC</name>
+			<link>lechantducygne.com/palimpseste</link>
+		</platform>
+	</platforms>
+
+	<description>
+	Palimpseste is a first person exploration game in filtered reality.
+        It enables players to change the color filter through which they see the game space. Each color filter reveals different parts of the world. Players must find their way through the maze by changing filters and revealing places, doors, stairways and hallways that they could not see otherwise.
+        Palimpseste uses a custom mechanical headgear featuring three different positions associated with three different color filters: red, blue and green. Players can switch from one filter to another by using the handles present on the headgear's sides.
+	</description>
+	
+	<history>
+	The development of the project started during the game jam Mozilla Lumière in Paris, and continued after that during our stay at Gamelier in the Center for Research and Interdisciplinarity in Paris. We also had access to the CRI's fab lab, allowing us to build a custom headgear for the game. 
+	</history>
+
+	<features>
+		<feature>Custom headgear controller.</feature>
+		<feature>Three color filters.</feature>
+		<feature>Custom anti-cheat LCD screen</feature>
+	</features>
+	
+	<trailers>
+		<trailer>
+			<name>Trailer</name>
+			<vimeo>147940937</vimeo>
+		</trailer>
+	</trailers>
+	
+	<credits>
+		<credit>
+			<person>Romain Enselme</person>
+		</credit>
+		<credit>
+			<person>Gaël Bourhis</person>
+		</credit>
+		<credit>
+			<person>Simon Chauvin</person>
+		</credit>
+	</credits>
+</game>
