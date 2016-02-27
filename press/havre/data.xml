@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+	<title>Havre</title>
+	<release-date>2017</release-date>
+	<website>http://www.havre-game.com/</website>
+	<press-can-request-copy>TRUE</press-can-request-copy>
+
+	<platforms>
+		<platform>
+			<name>PC / Mac / Linux</name>
+			<link>http://www.havre-game.com/</link>
+		</platform>
+		<!--<platform>
+			<name>Steam</name>
+			<link>http://www.steampowered.com/</link>
+		</platform>
+		<platform>
+			<name>Apple App Store</name>
+			<link>http://www.itunes.com/</link>
+		</platform>-->
+	</platforms>
+	
+	<!--<prices>
+		<price>
+			<currency>USD</currency>
+			<value>$1.99</value>
+		</price>
+		<price>
+			<currency>EUR</currency>
+			<value>€1.59</value>
+		</price>
+		<price>
+			<currency>CAD</currency>
+			<value>$1.99</value>
+		</price>				
+		<price>
+			<currency>GBP</currency>
+			<value>£1.29</value>
+		</price>
+	</prices>-->
+
+	<description>
+	Havre is a first person exploration game set in a forsaken cylindrical world.
+	Despite its apparent lifelessness this world was once built to be an artificial haven.
+	Players can progressively reawaken the world through activating its inner mechanisms for 
+	creating wind, heat and light.
+	</description>
+	
+	<history>
+	Havre started as the game around which Le Chant du cygne collective was created. At first, Havre 
+	was centered around a sight mechanic inspired by Tarkovsky's Solaris. But, since the game took place
+	in a giant cylindrical world offering so many possibilities it quickly became the main focus of the game.
+	The sight mechanic was then delayed to a future game based on procedural mesh deformation.
+	</history>
+
+	<features>
+		<feature>First person exploration of a cylindrical world.</feature>
+		<feature>Night and day cycles, weather and gravity simulation of a cylindrical world.</feature>
+		<feature>Dozens of ways to reawaken the world.</feature>
+		<feature>Multiple paythrough possibles.</feature>
+	</features>
+	
+	<!--<trailers>
+		<trailer>
+			<name>Trailer</name>
+			<youtube>7jQbITg0MSk</youtube>
+			<vimeo>23571681</vimeo>
+		</trailer>
+		<trailer>
+			<name>Gameplay Video</name>
+			<youtube>7jQbITg0MSk</youtube>
+			<vimeo>23571681</vimeo>
+		</trailer>
+	</trailers>-->
+	
+	<!--<awards>
+		<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award>
+		<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award>
+	</awards>-->
+	
+	<quotes>
+		<quote>
+			<description>Still somewhat cryptic.</description>
+			<name>Ethan Gach</name>
+			<website>Killscreen</website>
+			<link>http://killscreen.com/articles/mysteries-solyaris-find-new-life-french-exploration-game/</link>
+		</quote>
+		<!--<quote>
+			<description>An extremely positive quote from a rather insignificant person. Also great.</description>
+			<name>Some Guy</name>
+			<website>This Page Is Visited By 12 Visitors A Month</website>
+			<link>http://</link>
+		</quote>
+		<quote>
+			<description>I pretend to love this game even though I do not actually understand it.</description>
+			<name>Pretentious Bastard</name>
+			<website>Artsy Page</website>
+			<link>http://</link>
+		</quote>
+		<quote>
+			<description>HOLY SHIT SO AMAZING</description>
+			<name>Caps Guy</name>
+			<website>Angry Review</website>
+			<link>http://</link>
+		</quote>-->
+	</quotes>
+	
+	<additionals>
+		<!--<additional>
+			<title>Devblog</title>
+			<description>The devblog is available at</description>
+			<link>http://havre-game.tumblr.com/</link>
+		</additional>
+		<additional>
+			<title>Original Soundtrack</title>
+			<description>Available for free from</description>
+			<link>http://somemusicsite.com/thislink</link>
+		</additional>
+		<additional>
+			<title>Release Blog Post</title>
+			<description>The blog-post through which this game was released is available at</description>
+			<link>http://vlambeer.com/bloglink</link>
+		</additional>-->
+	</additionals>
+	
+	<credits>
+		<credit>
+			<person>Gaël Bourhis</person>
+		</credit>
+		<credit>
+			<person>Simon Chauvin</person>
+		</credit>
+		<credit>
+			<person>Romain Enselme</person>
+		</credit>
+		<!--<credit>
+			<person>Oliver Twist</person>
+			<website>www.olivertwist.com</website>
+			<role>Artist, Freelancer</role>
+		</credit>
+		<credit>
+			<person>Jane Doette</person>
+			<website>www.olivertwist.com</website>
+			<role>Music, Freelancer</role>
+		</credit>-->
+	</credits>
+</game>

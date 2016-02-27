@@ -11,22 +11,22 @@
 
 	<socials>
 		<social>
-			<name>twitter.com/LeChantduCygne</name>
-			<link>twitter.com/LeChantduCygne</link>
+			<name>twitter.com/LeChantducygne</name>
+			<link>twitter.com/LeChantducygne</link>
 		</social>
 		<social>
-			<name>facebook.com/LeChantduCygne</name>
-			<link>facebook.com/LeChantduCygne</link>
+			<name>facebook.com/LeChantducygne</name>
+			<link>facebook.com/LeChantducygne</link>
 		</social>
 	</socials>
 
 	<description>
-		We're a game collective based in Paris.
+		Le Chant du cygne is french game collective based in Paris.
 	</description>
 		
 	<histories>
 		<history>
-			<header>Early history</header>
+			<header>History</header>
 			<text>Le Chant du cygne is an independent game collective made of Gaël Bourhis, Simon Chauvin and Romain Enselme. They founded Le Chant du cygne in 2015, after 2 years spent developping games during game jams. Romain and Simon met in 2010 at ENJMIN, a famous french video game school. Gaël and Romain were already long term friends when Gaël dropped out of art school to learn programming. The three started to meet on a regular basis mainly to take part in events such as the Ludum Dare, until they just decided to get serious.</text>
 		</history>
 	</histories>
