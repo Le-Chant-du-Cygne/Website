@@ -8,5 +8,12 @@ function resizeTitle()
 $(window).ready(function(){
     resizeTitle();
     $("#container").css({"visibility":"visible"});   
+    
+    //Year Date
+    $("#year-container").text(new Date().getFullYear());
 });
 $( window ).resize(resizeTitle);
+
+
+
+
