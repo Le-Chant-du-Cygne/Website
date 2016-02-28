@@ -122,14 +122,17 @@
 	<credits>
 		<credit>
 			<person>Gaël Bourhis</person>
-                        <website>http://www.gaelbourhis.com/</website>
+                        <website>www.gaelbourhis.com/</website>
+                        <role>Founder</role>
 		</credit>
 		<credit>
 			<person>Simon Chauvin</person>
 			<website>www.simonchauvin.com</website>
+                        <role>Founder</role>
 		</credit>
 		<credit>
 			<person>Romain Enselme</person>
+                        <role>Founder</role>
 		</credit>
 	</credits>
 	
