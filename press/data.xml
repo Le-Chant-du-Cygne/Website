@@ -21,13 +21,20 @@
 	</socials>
 
 	<description>
-		Le Chant du cygne is french game collective based in Paris.
+            Le Chant du cygne is a french independent game collective formed by Gaël Bourhis, Simon Chauvin and Romain Enselme in 2015.
+            Based in Paris and Lille, Le Chant du cygne develops experimental digital games. They created Palimpseste and are actively 
+            working on Havre.
 	</description>
 		
 	<histories>
 		<history>
-			<header>History</header>
-			<text>Le Chant du cygne is an independent game collective made of Gaël Bourhis, Simon Chauvin and Romain Enselme. They founded Le Chant du cygne in 2015, after 2 years spent developping games during game jams. Romain and Simon met in 2010 at ENJMIN, a famous french video game school. Gaël and Romain were already long term friends when Gaël dropped out of art school to learn programming. The three started to meet on a regular basis mainly to take part in events such as the Ludum Dare, until they just decided to get serious.</text>
+			<header>Origins</header>
+			<text>
+                            Le Chant du cygne was founded in 2015 by Romain, Gaël and Simon after two years working on solo projects and 
+                            taking part in many game jams. They first started working together on a first person exploration game called 
+                            Havre, which would become their most important project. In the mean time, they developed Palimpseste, an interactive
+                            installation played with a custom headgear, that has been exhibited throughout Europe.
+                        </text>
 		</history>
 	</histories>
 		
@@ -115,6 +122,7 @@
 	<credits>
 		<credit>
 			<person>Gaël Bourhis</person>
+                        <website>http://www.gaelbourhis.com/</website>
 		</credit>
 		<credit>
 			<person>Simon Chauvin</person>
