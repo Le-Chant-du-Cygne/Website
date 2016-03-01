@@ -98,16 +98,6 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
-/*General properties*/
-
-body {
-    font-family: "open_sansregular";
-    font-size: 1em;
-    background-color: #fff;
-    text-align: left;
-}
-
-
 /* Text */
 @font-face {
     font-family: 'open_sansregular';
@@ -121,8 +111,22 @@ body {
     font-style: normal;
 }
 
+/*General properties*/
+body {
+    font-family: "open_sansregular";
+    font-size: 1.4em;
+    background-color: #fff;
+    text-align: left;
+}
+
 a {
-    color: #5B9DA9;
+    color: #777;
+    font-style: italic;
+}
+
+a:hover {
+    color: #000;
+    font-style: italic;
 }
 
 #page-column p{
@@ -145,7 +149,7 @@ Page
 #title-banner{
     padding-top: 0px;
     padding-bottom: 0px;
-    background: url(../img/banner33.png);
+    background: url(../img/banner33INV.png);
     background-size: cover;
     background-attachment: fixed;    
     background-position: center center;
@@ -153,6 +157,7 @@ Page
 }
 
 #title{
+    //font-family: "open_sansregular";
     margin: 0;
     width : 100%;
     text-align: center;
@@ -163,7 +168,7 @@ Page
     line-height: 0.9;
     font-size: 125px;
     font-weight:bolder;
-    color: #fff;
+    color: #000;
 }
 
 @media (max-width: 768px) {
@@ -176,7 +181,7 @@ Page
 #content-column{
     padding-left: 15px;
     padding-right: 15px;
-    background: url(../img/banner3.png);
+    background: url(../img/banner33INV.png);
     background-size: cover;
     background-attachment: fixed;    
     background-position: center center;
@@ -185,7 +190,7 @@ Page
 }
 
 #page-column{
-    background: url(../img/banner3.png);
+    background: url(../img/banner33INV.png);
     background-size: cover;
     background-attachment: fixed;    
     background-position: center center;
@@ -226,10 +231,11 @@ CATEGORIES
 }
 
 .category-title h2{
+    //font-family: "open_sansregular";
     margin: 0;
     font-size: 3.2em;
     font-weight:bolder;
-    color: #fff;
+    color: #000;
     margin-bottom: 5px;
 }
 
@@ -246,10 +252,21 @@ ABOUT
 
 }
 
+.collective-name{
+    font-weight: 600;
+    //color: #222;
+}
+
 .collective-desc p{
     padding: 30px;
-    padding-left: 40px;
+    padding-left: 50px;
+    padding-right: 100px;
+    padding-bottom: 40px;
     text-align: left;
+    font-weight: 500;
+    font-size: 0.8em;
+    line-height: 1.4;
+    border: 1px solid #000;
 }
 
 
@@ -265,33 +282,44 @@ PROJECTS
     margin-left: 0;
     margin-right: 0;
     margin-bottom: 30px;
+    border: 1px solid #000;
 }
 
 .project-img{
-    padding: 1px;
+    padding: 0;
 }
 
 .project-desc{
-    padding: 20px;
-    padding-left: 20px;
+    padding: 30px;
+    padding-left: 40px;
     text-align: left ;
 }
 
 .project-desc h3{
     //font-weight: bolder;
-    font-size: 1.6em;
+    //font-family: "Andada";
+     
+    font-weight: 500;
+    font-size: 1.1em;
+    //font-size: 1.4em;
     margin-top: 0;
-    color: #444;
+    color: #222;
+    // color: #444;
+     text-transform: uppercase;
+    // border-bottom: 1px dotted #777;
 }
 
 .project-desc p{
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin-top: 50px;
+    margin-bottom: 25px;
+    font-weight: 500;
+    line-height: 1.1;
+    font-size: 0.9em;
 
 }
 
 .project-desc a{
-
+ font-size: 0.9em;
 }
 
 
