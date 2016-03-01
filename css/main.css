@@ -149,7 +149,7 @@ Page
 #title-banner{
     padding-top: 0px;
     padding-bottom: 0px;
-    background: url(../img/banner33INV.png);
+    background: url(../img/banner3.png);
     background-size: cover;
     background-attachment: fixed;    
     background-position: center center;
@@ -168,7 +168,7 @@ Page
     line-height: 0.9;
     font-size: 125px;
     font-weight:bolder;
-    color: #000;
+    color: #fff;
 }
 
 @media (max-width: 768px) {
@@ -181,7 +181,7 @@ Page
 #content-column{
     padding-left: 15px;
     padding-right: 15px;
-    background: url(../img/banner33INV.png);
+    background: url(../img/banner3.png);
     background-size: cover;
     background-attachment: fixed;    
     background-position: center center;
@@ -190,7 +190,7 @@ Page
 }
 
 #page-column{
-    background: url(../img/banner33INV.png);
+    background: url(../img/banner3.png);
     background-size: cover;
     background-attachment: fixed;    
     background-position: center center;
@@ -235,7 +235,7 @@ CATEGORIES
     margin: 0;
     font-size: 3.2em;
     font-weight:bolder;
-    color: #000;
+    color: #fff;
     margin-bottom: 5px;
 }
 
@@ -266,7 +266,7 @@ ABOUT
     font-weight: 500;
     font-size: 0.8em;
     line-height: 1.4;
-    border: 1px solid #000;
+    //border: 1px solid #000;
 }
 
 
@@ -282,11 +282,11 @@ PROJECTS
     margin-left: 0;
     margin-right: 0;
     margin-bottom: 30px;
-    border: 1px solid #000;
+    //border: 1px solid #000;
 }
 
 .project-img{
-    padding: 0;
+    padding: 1px;
 }
 
 .project-desc{
