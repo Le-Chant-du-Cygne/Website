@@ -2,7 +2,7 @@
 
 <game>
 	<title>Havre</title>
-	<release-date>2017</release-date>
+	<release-date>2018</release-date>
 	<website>http://www.havre-game.com/</website>
 	<press-can-request-copy>TRUE</press-can-request-copy>
 
@@ -41,24 +41,24 @@
 	</prices>-->
 
 	<description>
-	Havre is a first person exploration game set in a forsaken cylindrical world.
-	Despite its apparent lifelessness this world was once built to be an artificial haven.
-	Players can progressively reawaken the world through activating its inner mechanisms for 
-	creating wind, heat and light.
+	Havre is an experimental first person exploration game set inside a dynamic cylindrical world.
+        Explore a different kind of gravity and trigger large scale climatic phenomenons to bring Havre back to life.
+        The game is being developed by Le Chant du cygne and is intended to be released on Windows, Mac and Linux.
 	</description>
 	
 	<history>
-	Havre started as the game around which Le Chant du cygne collective was created. At first, Havre 
-	was centered around a sight mechanic inspired by Tarkovsky's Solaris. But, since the game took place
-	in a giant cylindrical world offering so many possibilities it quickly became the main focus of the game.
-	The sight mechanic was then delayed to a future game based on procedural mesh deformation.
+	Havre started as the game around which Le Chant du cygne collective was created.
+	It was then called Quartier Rouge and was very different from what it is today.
+        The basic idea of wandering through a vast cylindrical world was already present but we did not grasp the importance of it and the many implications back then.
+	Since the world itself is the main character we add to give it living organism properties, hence the simulation of a climatic world.
 	</history>
 
 	<features>
-		<feature>First person exploration of a cylindrical world.</feature>
-		<feature>Night and day cycles, weather and gravity simulation of a cylindrical world.</feature>
-		<feature>Dozens of ways to reawaken the world.</feature>
-		<feature>Multiple paythrough possibles.</feature>
+		<feature>A vast world within a cylinder.</feature>
+		<feature>A science-fiction video game adventure.</feature>
+		<feature>A dynamic world affected by large scale climatic phenomenons.</feature>
+		<feature>A unique cylindrical world with its own simulated gravity.</feature>
+		<feature>An unprecedented exploration of a vast and dynamic climatic world.</feature>
 	</features>
 	
 	<!--<trailers>
