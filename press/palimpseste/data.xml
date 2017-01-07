@@ -36,6 +36,27 @@
 		</trailer>
 	</trailers>
 	
+        <quotes>
+		<quote>
+			<description>The controller is the experience.</description>
+			<name>Joel Couture</name>
+			<website>Gamasutra</website>
+			<link>http://www.gamasutra.com/view/news/266213/AltCtrlGDC_Showcase_Le_Chant_du_Cygnes_Palimpseste.php</link>
+		</quote>
+		<quote>
+			<description>A lo-fi kicking against the pricks of virtual-reality hardware.</description>
+			<name>Thomas McMullan</name>
+			<website>alphr</website>
+			<link>http://www.alphr.com/games/1003094/london-games-festival-palimpseste-builds-a-lo-fi-virtual-reality-world-with-coloured</link>
+		</quote>
+                <quote>
+			<description>This creates a unique interaction between the virtual and real worlds.</description>
+			<name>LondonCalling</name>
+			<website>LondonCalling</website>
+			<link>http://londoncalling.com/features/game-theory-now-play-this-at-somerset-house</link>
+		</quote>
+	</quotes>
+        
 	<credits>
 		<credit>
 			<person>Romain Enselme</person>
